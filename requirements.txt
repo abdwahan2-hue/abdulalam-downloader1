@@ -1,6 +1,6 @@
 fastapi
 uvicorn[standard]
 yt-dlp
-pydantic
+pydantic==2.5.3
 python-multipart
 requests
